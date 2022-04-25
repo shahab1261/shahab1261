@@ -93,7 +93,7 @@ I would love to work in a challenging environment where I can reveal and prove m
 <a href="https://instagram.com/shahab_03" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackexchange.com/users/11330855/shahab" target="_blank">
+<a href="https://stackexchange.com/users/11330855/shahab?tab=accounts" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/shahab-safdar-711b23167/" target="_blank">
