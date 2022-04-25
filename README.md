@@ -1,4 +1,4 @@
-### <div align="center">I'm Shahab, a full-time full-stack freelance developer 👨‍💻 working remotely since 2019 as PHP developer 🚀</div>  
+### <div align="center">I'm Shahab, a full-time full-stack freelance developer 👨‍💻 working remotely since as PHP developer 🚀</div>  
   
 
 I would love to work in a challenging environment where I can reveal and prove my potential and abilities. Offering remarkable skills in web design and development. Strong desire to learn with a profound ability to work efficiently. I’m a confident person who knows how to work in a drastic condition. <br>I really enjoy to automate things 😃 <br><b>P.S:</b> I'm Student of Masters in Computer Science  from University of engineering and technology, Lahore.  
