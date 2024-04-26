@@ -4,15 +4,8 @@
 I would love to work in a challenging environment where I can reveal and prove my potential and abilities. Offering remarkable skills in web design and development. Strong desire to learn with a profound ability to work efficiently. I’m a confident person who knows how to work in a drastic condition. <br>I really enjoy to automate things 😃 <br><b>P.S:</b> I'm Student of Masters in Computer Science  from University of engineering and technology, Lahore.  
   
 
-- 🔭 Top Rated Seller on FIVERR 🔥  
-  
-
-- 🌱 I’m currently learning PYTHON 🐍  
-  
-
+- 🔭 Top Rated Seller 🔥  
 - ❓ Ask me about anything related to website backend development 💻  
-  
-
 - ⚡ Fun fact: I use tabs over spaces 😌  
   
 
